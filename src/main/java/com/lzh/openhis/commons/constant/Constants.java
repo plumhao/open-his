@@ -130,4 +130,5 @@ public interface Constants {
     String ID_PROFIX_ITEM = "ITEM"; //处方详情表
     String ID_PROFIX_ODC = "ODC"; //收费订单
     String ID_PROFIX_ODB = "ODB";//退费订单
+    String LOGIN_USER = "login_user";//登录用户存储
 }
